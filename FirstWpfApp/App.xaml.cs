@@ -13,6 +13,6 @@ namespace FirstWpfApp
     /// </summary>
     public partial class App : Application
     {
-        //main 
+        //main  
     }
 }
